@@ -1,0 +1,2 @@
+ali = "saliou"
+print('ali')

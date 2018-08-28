@@ -1,2 +1,2 @@
 ali = "saliou"
-print('ali')
+print(ali)
